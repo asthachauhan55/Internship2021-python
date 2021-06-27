@@ -32,7 +32,7 @@ Constraints:
 
 class Solution:
     def reverse(self, x: int) -> int:
-    #def reverse (x):
+ 
         sum = 0     #initialization
         sign = 1    
         if x < 0:       #condition_1
